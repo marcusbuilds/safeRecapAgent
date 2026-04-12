@@ -1,0 +1,7 @@
+.venv
+flask_session
+instance
+.env
+.env.dev
+.env.local
+.env.*.local

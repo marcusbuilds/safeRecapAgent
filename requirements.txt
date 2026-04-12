@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+openai
+pydantic
+pytest
+sqlalchemy
+python-dotenv
+psycopg2-binary
+google-generativeai
+requests
+ollama
+pandas
+jinja2
+langchain
+langchain-google-genai
+langgraph
+langchain_openai
